@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
 
   title: "Home | Sarwar Alamgir",
-  description: "Official website of Sarwar Alamgir, candidate for Chattogram-1, Fatikchhari.",
+  description: "Official website of Sarwar Alamgir, candidate for Chattogram-2, Fatikchhari.",
 
 }
 
