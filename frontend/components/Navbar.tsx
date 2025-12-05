@@ -169,7 +169,7 @@ export default function Navbar() {
           </Button>
           <Button
             asChild
-            className="hidden lg:flex bg-green-800 hover:bg-cyan-950 text-white rounded-full px-6 shadow-lg shadow-cyan-950/20"
+            className="hidden lg:flex bg-green-900 hover:bg-cyan-950 text-white rounded-full px-6 shadow-lg shadow-cyan-950/20"
           >
             <Link href="#donate">{t.navbar.donate}</Link>
           </Button>
