@@ -77,7 +77,7 @@ export default function HeroSection() {
               <Button
                 asChild
                 size="lg"
-                className="bg-linear-to-r from-green-800 to-green-900 hover:from-syan-900 hover:to-cyan-950 text-white h-14 px-8 text-lg rounded-full shadow-xl shadow-cyan-950/20 hover:shadow-green-sky/30 transition-all transform hover:scale-105 w-full sm:flex-1"
+                className="bg-linear-to-r from-green-900 to-green-950 hover:from-cyan-900 hover:to-cyan-950 text-white h-14 px-8 text-lg rounded-full shadow-xl shadow-cyan-950/20 hover:shadow-green-sky/30 transition-all transform hover:scale-105 w-full sm:flex-1"
               >
                 <Link
                   href="/#volunteer"
