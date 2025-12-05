@@ -58,7 +58,7 @@ export default function ManifestoPage() {
       </section>
 
       {/* Vision */}
-      <section className="py-10 sm:py-12 md:py-16 bg-gradient-to-r from-teal-500 to-teal-300 border-b">
+      <section className="py-10 sm:py-12 md:py-16 bg-gradient-to-b from-whilte-900 to-stone-200 border-b">
         <div className="container mx-auto px-4 sm:px-6 max-w-6xl space-y-8 sm:space-y-10 bg-white-900">
           <div className="text-sm sm:text-lg text-stone-700 font-serif"> {/* Changed the font to serif */}
             <h2 className="text-xl font-semibold mb-3">{manifesto.vision.title}</h2>
