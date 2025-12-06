@@ -11,7 +11,7 @@ export default function GallerySection() {
   const candidateData = data;
 
   return (
-    <div className="mt-12 pt-8 sm:mt-16 sm:pt-12 lg:mt-10 lg:pt-16 bg-gradient-to-b from-white-900 to-stone-200/80 ">
+    <div className="px-8 mt-12 pt-8 sm:mt-16 sm:pt-12 lg:mt-10 lg:pt-16 bg-gradient-to-b from-white-900 to-stone-200/80 ">
       <div className="flex flex-col lg:flex-row justify-between items-start lg:items-center gap-6 sm:gap-8">
         <div className="flex items-start sm:items-center gap-3 sm:gap-4 w-full lg:w-auto">
           <div className="w-14 h-14 sm:w-16 sm:h-16 lg:w-18 lg:h-18 bg-stone-100 rounded-xl flex items-center justify-center shrink-0">
