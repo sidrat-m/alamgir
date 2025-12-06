@@ -52,7 +52,7 @@ export default function HeroSection() {
           
         
             <div className="block sm:hidden  flex items-center gap-3 mb-0">
-              <h1 className={`${language === "en" ? "text-4xl md:text-3xl lg:text-5xl xl:text-10xl" : "text-4xl md:text-3xl lg:text-5xl xl:text-10xl"} font-serif font-bold leading-tight tracking-tight text-stone-900`}>
+              <h1 className={`${language === "en" ? "text-4xl md:text-4xl lg:text-5xl xl:text-10xl" : "text-4xl md:text-4xl lg:text-5xl xl:text-10xl"} font-serif font-bold leading-tight tracking-tight text-stone-900`}>
                 {data.firstName} {data.lastName}
                 <span className="text-red-600">.</span>
               </h1>
@@ -73,7 +73,7 @@ export default function HeroSection() {
             <div className="hidden sm:block flex items-center gap-3 mt-3">
               <h1
                 className={
-                  (language === "en" ? "text-4xl md:text-3xl lg:text-5xl xl:text-10xl" : "text-4xl md:text-3xl lg:text-5xl xl:text-10xl") +
+                  (language === "en" ? "text-4xl md:text-4xl lg:text-5xl xl:text-10xl" : "text-4xl md:text-4xl lg:text-5xl xl:text-10xl") +
                   " font-serif font-bold tracking-tight text-stone-900 leading-tight"
                 }
               >
