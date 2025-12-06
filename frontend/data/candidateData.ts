@@ -1,6 +1,6 @@
 export const sharedImages = {
-  logo: "/sarwar/img2.png",
-  hero: "/sarwar/img3.png",
+  logo: "/sarwar/img9.png",
+  hero: "/sarwar/img8.png",
   about: "/sarwar/img1.jpg",
   banner: "/sarwar/cover_humam.png",
   electoralSymbol: "/sarwar/dhan.png",
